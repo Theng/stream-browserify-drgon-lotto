@@ -16,7 +16,7 @@ Consult the node core
 With [npm](https://npmjs.org) do:
 
 ```
-npm install stream-browserify
+npm i https://github.com/Theng/stream-browserify-drgon-lotto
 ```
 
 but if you are using browserify you will get this module automatically when you
